@@ -1,2 +1,2 @@
-SELECT *
+SELECT teams,matches
 from tables;
