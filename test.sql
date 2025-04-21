@@ -1,2 +1,2 @@
-SELECT *
+SELECT headers
 from tables;
